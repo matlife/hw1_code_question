@@ -1,4 +1,4 @@
-__author__ = 'matthewlei'
+
 from run_knn import run_knn
 from utils import *
 
